@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shandurrani, a passionate software engineer with a knack for turning ideas into reality through code. My journey in the world of technology has been an exciting one, filled with learning, challenges, and growth.
+I'm Shandurrani, a passionate software developer with a knack for turning ideas into reality through code. My journey in the world of technology has been an exciting one, filled with learning, challenges, and growth.
 
 🔭 **Currently**, I'm honing my skills and expertise in various technologies, constantly striving to push the boundaries of what's possible.
 
