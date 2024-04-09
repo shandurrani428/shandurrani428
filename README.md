@@ -23,6 +23,9 @@ I'm Shandurrani, a passionate software developer with a knack for turning ideas 
 
 ⚡ **Fun fact:** I love to explore new hiking trails whenever I get the chance, and I'm always up for a good adventure!
 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/shandurrani428)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shan-durrani/)
+
 
 ## 📈 GitHub Stats
 
