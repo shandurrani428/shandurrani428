@@ -37,7 +37,3 @@ I'm Shandurrani, a passionate software developer with a knack for turning ideas 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shandurrani428&" alt="shandurrani428" /></p>
-
-![GitHub Activity](https://img.shields.io/github/last-commit/shandurrani428/shandurrani428?style=flat&logo=github)
-
